@@ -1,1 +1,2 @@
-qwerty
+-To run this project, run the juniper notebook file named "Assignment_Jude_Gibson.ipynb"
+-Alternatively, you could read the report included in the repository to learn more about the project and the results that I collected.
